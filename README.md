@@ -8,7 +8,7 @@
        - Hardware, software, firmware e drivers;
        - Propridades e função de memória RAM, HD/SSD;
        - Pensamento computacional e lógico;
-       - Sistemas operacionais e configuração de       ambiente;
+       - Sistemas operacionais e configuração de ambiente;
 
 ### 🟡Trilha sendo estudada:
 - Trilha Fundamentar
